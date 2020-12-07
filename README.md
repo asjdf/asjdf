@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm learning in HDU
+I'm learning in HDU.  
 My favorite activity: Sleeping, Eating.
 <!--
 **asjdf/asjdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
