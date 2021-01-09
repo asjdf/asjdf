@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm learning in HDU.  
 My favorite activity: Sleeping, Eating.
+
+我的博客：[宅男的天台](https://homeboyc.cn/) 
 <!--
 **asjdf/asjdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
