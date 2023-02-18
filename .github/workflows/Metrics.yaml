@@ -23,7 +23,7 @@ jobs:
           template: classic
           base: activity, community, repositories, metadata
           base_hireable: yes
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: detailed
